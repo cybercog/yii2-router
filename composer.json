@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "codemix/yii2-localeurls": "dev-master",
+        "codemix/yii2-localeurls": "dev-master"
     },
     "autoload"   : {
         "psr-4": {
