@@ -2,15 +2,14 @@
     "name": "fonclub/yii2-router",
     "description": "Yii2 DB router",
     "license": "MIT LICENCE",
+    "type": "yii2-extension",
     "authors": [
         {
             "name": "Fonclub",
             "email": "sfonclub@gmail.com"
         }
     ],
-    "require": {
-        "codemix/yii2-localeurls": "dev-master"
-    },
+    "require": {},
     "autoload"   : {
         "psr-4": {
             "fonclub\\router\\": ""
